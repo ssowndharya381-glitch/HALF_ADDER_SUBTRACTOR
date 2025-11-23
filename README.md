@@ -68,20 +68,12 @@ endmodule
 Developed by:SOWNDHARYA S RegisterNumber:25009992*/
 
 **RTL Schematic**
-<img width="1781" height="860" alt="Screenshot 2025-11-22 221033" src="https://github.com/user-attachments/assets/5e7b5212-9d43-4edc-9122-96b0262678d3" />
-
-<img width="1664" height="886" alt="Screenshot 2025-11-22 221053" src="https://github.com/user-attachments/assets/7ed11406-0b17-40ef-aa45-430aefff65c2" />
-
-
-
+<img width="1781" height="860" alt="Screenshot 2025-11-22 221033" src="https://github.com/user-attachments/assets/d5f50d31-7f46-4ff4-8547-e54c1d4b2458" />
+<img width="1664" height="886" alt="Screenshot 2025-11-22 221053" src="https://github.com/user-attachments/assets/3bef6ff0-b78f-4fa7-aa9b-553f04d77431" />
 
 **Output/TIMING Waveform**
-<img width="1900" height="850" alt="Screenshot 2025-11-22 221127" src="https://github.com/user-attachments/assets/3f268b40-bd0c-4903-8fc1-833e6e8fb061" />
-<img width="1871" height="867" alt="Screenshot 2025-11-22 221157" src="https://github.com/user-attachments/assets/e497454d-2abd-4b83-b2ec-e4ea1a8d8b11" />
-
-
- 
-
+<img width="1900" height="850" alt="Screenshot 2025-11-22 221127" src="https://github.com/user-attachments/assets/4917dfa7-b9b2-4d5c-8056-5c1d303d13a3" />
+<img width="1871" height="867" alt="Screenshot 2025-11-22 221157" src="https://github.com/user-attachments/assets/35701cf4-abbf-42cc-b5b1-de925f9c7bf5" />
 
 **Result:**
 Thus, a half adder and half subtractor circuit is designed to verify its truth table in Quartus using Verilog programming.
